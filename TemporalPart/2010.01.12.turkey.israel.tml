@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2010.01.12.turkey.israel</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-01-12" temporalFunction="false" functionInDocument="CREATION_TIME">2010-01-12</TIMEX3></DCT>
+<TEXT>
+Tensions between Israel and Turkey <EVENT class="OCCURRENCE" eid="e1">spilled</EVENT> into a <TIMEX3 tid="t1" type="DATE" value="">second day</TIMEX3> <TIMEX3 tid="t2" type="DATE" value="">Tuesday</TIMEX3> when Turkish officials <EVENT class="OCCURRENCE" eid="e2">summoned</EVENT> the Israeli ambassador to a meeting, Turkey's Anatolia news agency <EVENT class="REPORTING" eid="e3">reported</EVENT>.
+Israel <EVENT class="OCCURRENCE" eid="e4">criticized</EVENT> Turkey <TIMEX3 tid="t3" type="DATE" value="">Monday</TIMEX3> for a Turkish television series that it <EVENT class="REPORTING" eid="e5">said</EVENT> <EVENT class="OCCURRENCE" eid="e6">depicted</EVENT> Israeli intelligence agents as baby-snatchers.
+When <EVENT class="OCCURRENCE" eid="e7">asked</EVENT> about <TIMEX3 tid="t4" type="DATE" value="">Tuesday</TIMEX3>'s meeting between Israeli Ambassador Gabby Levy and Turkish officials, the Israeli Foreign Ministry <EVENT class="REPORTING" eid="e9">said</EVENT> it was pre-planned.
+That session <EVENT class="OCCURRENCE" eid="e10">came</EVENT> <TIMEX3 tid="t5" type="DATE" value="">one day</TIMEX3> after Israeli Deputy Foreign Minister Danny Ayalon <EVENT class="OCCURRENCE" eid="e11">summoned</EVENT> the Turkish ambassador to complain about the television show that Israel <EVENT class="OCCURRENCE" eid="e13">found</EVENT> offensive, a spokesman for Ayalon <EVENT class="REPORTING" eid="e14">said</EVENT>.
+Afterward, Ayalon <EVENT class="OCCURRENCE" eid="e15">tweeted</EVENT> that he had " Told Turk Amb that this is an intolerable situation which <EVENT class="OCCURRENCE" eid="e17">endangers</EVENT> the Jewish community, the Israel envoys and tourists <EVENT class="OCCURRENCE" eid="e18">coming</EVENT> to Turkey. "
+Several senior Israeli Foreign Ministry sources, who did n't <EVENT class="I_STATE" eid="e19">want</EVENT> to be named because it would jeopardize their jobs, <EVENT class="OCCURRENCE" eid="e22">criticized</EVENT> Ayalon's treatment of Turkish Ambassador Ahmet Oguz Celikkol at the start of their meeting <TIMEX3 tid="t6" type="DATE" value="">Monday</TIMEX3>.
+At the session, Celikkol was <EVENT class="OCCURRENCE" eid="e23">seated</EVENT> below Ayalon.
+With cameras <EVENT class="OCCURRENCE" eid="e24">rolling</EVENT>, Ayalon <EVENT class="OCCURRENCE" eid="e25">turned</EVENT> to the television crews and <EVENT class="REPORTING" eid="e26">said</EVENT>, " The main thing is that you see that he is <EVENT class="OCCURRENCE" eid="e27">seated</EVENT> low and that we are high... that there is one flag on the table ( the Israeli flag ) and that we are not <EVENT class="OCCURRENCE" eid="e28">smiling</EVENT>. "
+The sources <EVENT class="REPORTING" eid="e29">told</EVENT> CNN they were " surprised by Ayalon's undiplomatic behavior. "
+Ceylon Ozen, spokeswoman for the Turkish Embassy in Tel Aviv, <EVENT class="REPORTING" eid="e30">told</EVENT> CNN that Celikkol <EVENT class="OCCURRENCE" eid="e31">felt</EVENT> his treatment was " unacceptable, shocking and primitive, " and did not comply with standards for diplomacy.
+He has <EVENT class="OCCURRENCE" eid="e33">contacted</EVENT> the Israeli ambassador to Turkey and <EVENT class="OCCURRENCE" eid="e34">requested</EVENT> a formal apology from the Israelis, she <EVENT class="REPORTING" eid="e35">said</EVENT>.
+There had been media speculation that Ayalon's summons was <EVENT class="OCCURRENCE" eid="e36">designed</EVENT> to sabotage a trip to Ankara <TIMEX3 tid="t7" type="DATE" value="">Sunday</TIMEX3> by Israeli Defense Minister Ehud Barak.
+A spokesman for Ayalon <EVENT class="REPORTING" eid="e38">said</EVENT> that was " completely wide of the mark. "
+Barak's office <EVENT class="REPORTING" eid="e39">said</EVENT> he had no plans to cancel his trip.
+Israeli politicians and media outlets roundly <EVENT class="OCCURRENCE" eid="e41">condemned</EVENT> an episode of the popular Turkish soap opera, " Valley of the Wolves : Ambush, " that <EVENT class="OCCURRENCE" eid="e42">depicted</EVENT> the Israeli intelligence service Mossad <EVENT class="OCCURRENCE" eid="e43">spying</EVENT> inside Turkey and kidnapping Turkish babies.
+The program also <EVENT class="OCCURRENCE" eid="e45">showed</EVENT> Mossad <EVENT class="OCCURRENCE" eid="e46">attacking</EVENT> the Turkish embassy in Tel Aviv and <EVENT class="OCCURRENCE" eid="e47">taking</EVENT> the ambassador and his family hostage.
+In a written statement, " Valley of the Wolves : Ambush " producer Pana Film <EVENT class="REPORTING" eid="e49">said</EVENT> the show " will <EVENT class="ASPECTUAL" eid="e50">continue</EVENT> to <EVENT class="I_ACTION" eid="e51">tell</EVENT> the truth and <EVENT class="OCCURRENCE" eid="e52">expose</EVENT> the wrongs. "
+Israel <EVENT class="OCCURRENCE" eid="e53">summoned</EVENT> the Turkish ambassador the <TIMEX3 tid="t8" type="DATE" value="">same day</TIMEX3> that Turkey's Prime Minister Recep Tayyip Erdogan <EVENT class="OCCURRENCE" eid="e54">lambasted</EVENT> Israel for air strikes <TIMEX3 tid="t9" type="DATE" value="">Sunday</TIMEX3> on Gaza, the Turkish state-run Anatolian News Agency <EVENT class="REPORTING" eid="e55">reported</EVENT>.
+" Why is it doing this ?
+Because it says'I <EVENT class="OCCURRENCE" eid="e58">possess</EVENT> the power in this region,' " the news agency <EVENT class="REPORTING" eid="e59">quoted</EVENT> Erdogan as <EVENT class="REPORTING" eid="e60">saying</EVENT> of Israel.
+" It possesses unproportionate power and it is <EVENT class="OCCURRENCE" eid="e61">using</EVENT> this.
+It is not <EVENT class="OCCURRENCE" eid="e62">acting</EVENT> in accordance with U.N. resolutions, it is uncomfortable.
+It says'I will do whatever I please.' "
+During a joint news conference, <EVENT class="OCCURRENCE" eid="e66">held</EVENT> with Lebanese Prime Minister Saad Hariri, Erdogan <EVENT class="I_ACTION" eid="e67">called</EVENT> for the international community " to warn Israel about its nuclear arsenal just like it did with Iran, " ANA <EVENT class="REPORTING" eid="e70">reported</EVENT>.
+Israel is widely <EVENT class="I_STATE" eid="e71">believed</EVENT> to have a nuclear arsenal, but has never <EVENT class="OCCURRENCE" eid="e72">acknowledged</EVENT> that publicly.
+In a written statement, the Israeli Foreign Ministry <EVENT class="OCCURRENCE" eid="e73">condemned</EVENT> the criticism.
+" Erdogan's remarks <EVENT class="OCCURRENCE" eid="e74">join</EVENT> the anti-Israel program broadcast on Turkish television and the harsh statements against Israel that have been <EVENT class="REPORTING" eid="e75">said</EVENT> consistently and systematically for over <TIMEX3 tid="t10" type="DURATION" value="">a year</TIMEX3>, " the statement <EVENT class="REPORTING" eid="e76">said</EVENT>.
+" The state of Israel reserves the full right to protect its citizens from missile attacks and from the terror of the Hamas and Hezbollah.
+Turkey is the last that can preach morality to Israel and the IDF ( Israel Defense Forces ). "
+" Valley of the Wolves : Ambush " is part of a popular franchise in Turkey.
+The series " Valley of the Wolves " first <EVENT class="OCCURRENCE" eid="e79">aired</EVENT> in <TIMEX3 tid="t11" type="DATE" value="">2003</TIMEX3> on Turkish television, <EVENT class="OCCURRENCE" eid="e80">followed</EVENT> by a <TIMEX3 tid="t12" type="DATE" value="">2006</TIMEX3> movie of the same name that <EVENT class="OCCURRENCE" eid="e81">stirred</EVENT> controversy with its portrayal of American soldiers in Iraq and what some <EVENT class="OCCURRENCE" eid="e82">described</EVENT> as thinly-veiled anti-Semitism.
+The movie, <EVENT class="OCCURRENCE" eid="e83">based</EVENT> on the series, <EVENT class="OCCURRENCE" eid="e84">featured</EVENT> American actors Gary Busey and Billy Zane.
+Another television version, " Valley of the Wolves : Terror, " was <EVENT class="OCCURRENCE" eid="e85">canceled</EVENT> after one episode in <TIMEX3 tid="t13" type="DATE" value="">February 2007</TIMEX3>.
+" Ambush " first <EVENT class="OCCURRENCE" eid="e86">aired</EVENT> in <TIMEX3 tid="t14" type="DATE" value="">April 2007</TIMEX3>.
+Israel and Turkey have <EVENT class="OCCURRENCE" eid="e87">enjoyed</EVENT> close military and economic ties for more than a <TIMEX3 tid="t15" type="DATE" value="">decade</TIMEX3>.
+But relations have <EVENT class="OCCURRENCE" eid="e88">grown</EVENT> testy at times in <TIMEX3 tid="t16" type="DURATION" value="">recent years</TIMEX3> over Israel's activities in the Palestinian territories and over its Gaza offensive in <TIMEX3 tid="t17" type="DATE" value="">December</TIMEX3> and <TIMEX3 tid="t18" type="DATE" value="">January</TIMEX3>.
+CNN's Kevin Flower and Shira Medding <EVENT class="OCCURRENCE" eid="e89">contributed</EVENT> to this report.
+</TEXT>
+<MAKEINSTANCE aspect="NONE" eiid="ei1" eventID="e1" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei2" eventID="e2" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei3" eventID="e3" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei4" eventID="e4" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei5" eventID="e5" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei6" eventID="e6" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei7" eventID="e7" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei9" eventID="e9" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei10" eventID="e10" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei11" eventID="e11" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei13" eventID="e13" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei14" eventID="e14" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei15" eventID="e15" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei17" eventID="e17" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei18" eventID="e18" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei19" eventID="e19" polarity="NEG"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei22" eventID="e22" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei23" eventID="e23" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei24" eventID="e24" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei25" eventID="e25" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei26" eventID="e26" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei27" eventID="e27" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei28" eventID="e28" polarity="NEG"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei29" eventID="e29" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei30" eventID="e30" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei31" eventID="e31" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei33" eventID="e33" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei34" eventID="e34" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei35" eventID="e35" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei36" eventID="e36" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei38" eventID="e38" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei39" eventID="e39" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei41" eventID="e41" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei42" eventID="e42" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei43" eventID="e43" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei45" eventID="e45" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei46" eventID="e46" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei47" eventID="e47" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei49" eventID="e49" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei50" eventID="e50" polarity="POS"  tense="FUTURE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei51" eventID="e51" polarity="POS"  tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei52" eventID="e52" polarity="POS"  tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei53" eventID="e53" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei54" eventID="e54" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei55" eventID="e55" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei58" eventID="e58" polarity="POS"  tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei59" eventID="e59" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei60" eventID="e60" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei61" eventID="e61" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei62" eventID="e62" polarity="NEG"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei66" eventID="e66" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei67" eventID="e67" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei70" eventID="e70" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei71" eventID="e71" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei72" eventID="e72" polarity="NEG"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei73" eventID="e73" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei74" eventID="e74" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei75" eventID="e75" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei76" eventID="e76" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei79" eventID="e79" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei80" eventID="e80" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei81" eventID="e81" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei82" eventID="e82" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei83" eventID="e83" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei84" eventID="e84" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei85" eventID="e85" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei86" eventID="e86" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei87" eventID="e87" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei88" eventID="e88" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei89" eventID="e89" polarity="POS"  tense="PAST" />
+<TLINK eventInstanceID="ei1" lid="l0" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei4" lid="l1" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei7" lid="l2" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei10" lid="l3" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei12" lid="l4" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei15" lid="l5" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei17" lid="l6" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei21" lid="l7" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei23" lid="l8" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei27" lid="l9" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei31" lid="l10" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei34" lid="l11" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei37" lid="l12" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei41" lid="l13" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei45" lid="l14" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei50" lid="l15" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei52" lid="l16" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei54" lid="l17" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei57" lid="l18" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei61" lid="l19" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei63" lid="l20" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei65" lid="l21" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei68" lid="l22" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei71" lid="l23" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei73" lid="l24" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei77" lid="l25" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei79" lid="l26" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei81" lid="l27" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei83" lid="l28" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei85" lid="l29" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei87" lid="l30" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei89" lid="l31" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei1" lid="l32" relType="IS_INCLUDED" relatedToTime="t2" />
+<TLINK eventInstanceID="ei2" lid="l33" relType="IS_INCLUDED" relatedToTime="t2" />
+<TLINK eventInstanceID="ei6" lid="l34" relType="IS_INCLUDED" relatedToTime="t3" />
+<TLINK eventInstanceID="ei8" lid="l35" relType="IS_INCLUDED" relatedToTime="t4" />
+<TLINK eventInstanceID="ei10" lid="l36" relType="IS_INCLUDED" relatedToTime="t5" />
+<TLINK eventInstanceID="ei12" lid="l37" relType="IS_INCLUDED" relatedToTime="t5" />
+<TLINK eventInstanceID="ei22" lid="l38" relType="IS_INCLUDED" relatedToTime="t6" />
+<TLINK eventInstanceID="ei37" lid="l39" relType="IS_INCLUDED" relatedToTime="t7" />
+<TLINK eventInstanceID="ei53" lid="l40" relType="IS_INCLUDED" relatedToTime="t9" />
+<TLINK eventInstanceID="ei55" lid="l41" relType="IS_INCLUDED" relatedToTime="t9" />
+<TLINK eventInstanceID="ei79" lid="l42" relType="IS_INCLUDED" relatedToTime="t12" />
+<TLINK eventInstanceID="ei80" lid="l43" relType="IS_INCLUDED" relatedToTime="t12" />
+<TLINK eventInstanceID="ei85" lid="l44" relType="IS_INCLUDED" relatedToTime="t13" />
+<TLINK eventInstanceID="ei87" lid="l45" relType="IS_INCLUDED" relatedToTime="t15" />
+<TLINK eventInstanceID="ei1" lid="l46" relType="BEFORE" relatedToEventInstance="ei2" />
+<TLINK eventInstanceID="ei5" lid="l47" relType="AFTER" relatedToEventInstance="ei6" />
+<TLINK eventInstanceID="ei10" lid="l48" relType="AFTER" relatedToEventInstance="ei11" />
+<TLINK eventInstanceID="ei15" lid="l49" relType="AFTER" relatedToEventInstance="ei16" />
+<TLINK eventInstanceID="ei20" lid="l50" relType="BEFORE" relatedToEventInstance="ei21" />
+<TLINK eventInstanceID="ei26" lid="l51" relType="AFTER" relatedToEventInstance="ei25" />
+<TLINK eventInstanceID="ei30" lid="l52" relType="AFTER" relatedToEventInstance="ei32" />
+<TLINK eventInstanceID="ei34" lid="l53" relType="AFTER" relatedToEventInstance="ei33" />
+<TLINK eventInstanceID="ei35" lid="l54" relType="AFTER" relatedToEventInstance="ei34" />
+<TLINK eventInstanceID="ei49" lid="l55" relType="BEFORE" relatedToEventInstance="ei50" />
+<TLINK eventInstanceID="ei52" lid="l56" relType="BEFORE" relatedToEventInstance="ei50" />
+<TLINK eventInstanceID="ei57" lid="l57" relType="BEFORE" relatedToEventInstance="ei58" />
+<TLINK eventInstanceID="ei59" lid="l58" relType="AFTER" relatedToEventInstance="ei60" />
+<TLINK eventInstanceID="ei67" lid="l59" relType="BEFORE" relatedToEventInstance="ei68" />
+<TLINK eventInstanceID="ei70" lid="l60" relType="BEFORE" relatedToEventInstance="ei63" />
+<TLINK eventInstanceID="ei75" lid="l61" relType="AFTER" relatedToEventInstance="ei76" />
+<TLINK eventInstanceID="ei68" lid="l62" relType="BEFORE" relatedToEventInstance="ei69" />
+<TLINK eventInstanceID="ei67" lid="l63" relType="BEFORE" relatedToEventInstance="ei63" />
+<TLINK eventInstanceID="ei58" lid="l64" relType="AFTER" relatedToEventInstance="ei59" />
+<TLINK eventInstanceID="ei53" lid="l65" relType="AFTER" relatedToEventInstance="ei54" />
+<TLINK eventInstanceID="ei49" lid="l66" relType="BEFORE" relatedToEventInstance="ei52" />
+<TLINK eventInstanceID="ei36" lid="l67" relType="BEFORE" relatedToEventInstance="ei37" />
+<TLINK eventInstanceID="ei35" lid="l68" relType="AFTER" relatedToEventInstance="ei33" />
+<TLINK eventInstanceID="ei31" lid="l69" relType="BEFORE" relatedToEventInstance="ei32" />
+<TLINK eventInstanceID="ei30" lid="l70" relType="AFTER" relatedToEventInstance="ei31" />
+<TLINK eventInstanceID="ei25" lid="l71" relType="BEFORE" relatedToEventInstance="ei26" />
+<TLINK eventInstanceID="ei19" lid="l72" relType="BEFORE" relatedToEventInstance="ei20" />
+<TLINK eventInstanceID="ei11" lid="l73" relType="BEFORE" relatedToEventInstance="ei12" />
+<TLINK eventInstanceID="ei7" lid="l74" relType="BEFORE" relatedToEventInstance="ei8" />
+<TLINK eventInstanceID="ei4" lid="l75" relType="BEFORE" relatedToEventInstance="ei5" />
+<TLINK eventInstanceID="ei88" lid="l76" relType="IS_INCLUDED" relatedToTime="t18" />
+<TLINK eventInstanceID="ei86" lid="l77" relType="IS_INCLUDED" relatedToTime="t14" />
+<TLINK eventInstanceID="ei81" lid="l78" relType="IS_INCLUDED" relatedToTime="t12" />
+<TLINK eventInstanceID="ei80" lid="l79" relType="IS_INCLUDED" relatedToTime="t11" />
+<TLINK eventInstanceID="ei79" lid="l80" relType="IS_INCLUDED" relatedToTime="t11" />
+<TLINK eventInstanceID="ei55" lid="l81" relType="IS_INCLUDED" relatedToTime="t8" />
+<TLINK eventInstanceID="ei53" lid="l82" relType="IS_INCLUDED" relatedToTime="t8" />
+<TLINK eventInstanceID="ei36" lid="l83" relType="IS_INCLUDED" relatedToTime="t7" />
+<TLINK eventInstanceID="ei14" lid="l84" relType="IS_INCLUDED" relatedToTime="t5" />
+<TLINK eventInstanceID="ei11" lid="l85" relType="IS_INCLUDED" relatedToTime="t5" />
+<TLINK eventInstanceID="ei9" lid="l86" relType="IS_INCLUDED" relatedToTime="t4" />
+<TLINK eventInstanceID="ei7" lid="l87" relType="IS_INCLUDED" relatedToTime="t4" />
+<TLINK eventInstanceID="ei5" lid="l88" relType="IS_INCLUDED" relatedToTime="t3" />
+<TLINK eventInstanceID="ei2" lid="l89" relType="IS_INCLUDED" relatedToTime="t1" />
+<TLINK eventInstanceID="ei1" lid="l90" relType="IS_INCLUDED" relatedToTime="t1" />
+<TLINK eventInstanceID="ei88" lid="l91" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei86" lid="l92" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei84" lid="l93" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei82" lid="l94" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei80" lid="l95" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei78" lid="l96" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei74" lid="l97" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei72" lid="l98" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei69" lid="l99" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei66" lid="l100" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei64" lid="l101" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei62" lid="l102" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei58" lid="l103" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei56" lid="l104" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei53" lid="l105" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei51" lid="l106" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei48" lid="l107" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei42" lid="l108" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei40" lid="l109" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei36" lid="l110" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei33" lid="l111" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei28" lid="l112" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei25" lid="l113" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei22" lid="l114" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei20" lid="l115" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei16" lid="l116" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei13" lid="l117" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei11" lid="l118" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei8" lid="l119" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei6" lid="l120" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei2" lid="l121" relType="BEFORE" relatedToTime="t0" />
+
+</TimeML>

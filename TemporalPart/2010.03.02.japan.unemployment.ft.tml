@@ -1,0 +1,414 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2010.03.02.japan.unemployment.ft</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-03-02" temporalFunction="false" functionInDocument="CREATION_TIME">2010-03-02</TIMEX3></DCT>
+<TEXT>
+Japan's unemployment rate <EVENT class="OCCURRENCE" eid="e1">fell</EVENT> below 5 per cent for the first time in <TIMEX3 tid="t1" type="DURATION" value="">a year</TIMEX3> in <TIMEX3 tid="t2" type="DATE" value="2010-01">January</TIMEX3>, according to data <EVENT class="OCCURRENCE" eid="e3">released</EVENT> on <TIMEX3 tid="t3" type="DATE" value="2010-03-02">Tuesday</TIMEX3>, as strong exports <EVENT class="OCCURRENCE" eid="e4">fed</EVENT> into a strengthening economic recovery.
+In <TIMEX3 tid="t4" type="DATE" value="2010-01">January</TIMEX3>, the jobless rate <EVENT class="OCCURRENCE" eid="e5">dropped</EVENT> to 4.9 per cent, the lowest since <TIMEX3 tid="t5" type="DATE" value="2009-03">March 2009</TIMEX3>, down from a revised 5.2 per cent in <TIMEX3 tid="t6" type="DATE" value="2009-12">December</TIMEX3>.
+Economists <EVENT class="OCCURRENCE" eid="e6">polled</EVENT> by Reuters had <EVENT class="OCCURRENCE" eid="e7">forecast</EVENT> an unemployment rate of 5.2 per cent.
+" The economic recovery in Japan is <EVENT class="OCCURRENCE" eid="e8">filtering</EVENT> through to more jobs, " <EVENT class="REPORTING" eid="e9">said</EVENT> Matthew Circosta, economist at Moody's Economy.com.
+" Labour supply <EVENT class="OCCURRENCE" eid="e10">rose</EVENT>, after <EVENT class="OCCURRENCE" eid="e11">declining</EVENT> for <TIMEX3 tid="t7" type="DURATION" value="">the last three months</TIMEX3>.
+Encouragingly, the improvement in business sentiment and perceptions of employment conditions in <TIMEX3 tid="t8" type="DURATION" value="">recent months</TIMEX3> <EVENT class="I_STATE" eid="e12">seems</EVENT> to have <EVENT class="OCCURRENCE" eid="e13">encouraged</EVENT> workers back into the labour force, which is being <EVENT class="OCCURRENCE" eid="e14">absorbed</EVENT> by increased hiring. "
+Robust exports have also <EVENT class="OCCURRENCE" eid="e15">benefited</EVENT> job-seekers.
+Japan <EVENT class="OCCURRENCE" eid="e16">registered</EVENT> its biggest year-on-year increase in exports in almost <TIMEX3 tid="t9" type="DURATION" value="">30 years</TIMEX3> in <TIMEX3 tid="t10" type="DATE" value="2010-01">January</TIMEX3>, <EVENT class="OCCURRENCE" eid="e17">prompting</EVENT> manufacturers to <EVENT class="OCCURRENCE" eid="e18">hire</EVENT> more people who, in turn, <EVENT class="OCCURRENCE" eid="e19">spent</EVENT> more.
+Consumption <EVENT class="OCCURRENCE" eid="e20">rose</EVENT> 1.7 per cent in <TIMEX3 tid="t11" type="DATE" value="2010-01">January</TIMEX3> from the same period <TIMEX3 tid="t12" type="DATE" value="2009">last year</TIMEX3>, based on a price-adjusted basis, thanks to government subsidies for purchases of automobiles and household electronics, according to a separate report <EVENT class="OCCURRENCE" eid="e22">released</EVENT> on <TIMEX3 tid="t13" type="DATE" value="2010-03-02">Tuesday</TIMEX3>.
+Since <EVENT class="OCCURRENCE" eid="e23">hitting</EVENT> a record 5.6 per cent in <TIMEX3 tid="t14" type="DATE" value="2009-07">July last year</TIMEX3>, Japan's jobless rate has been <EVENT class="OCCURRENCE" eid="e24">falling</EVENT> steadily after it <EVENT class="OCCURRENCE" eid="e25">launched</EVENT> an emergency programme to create 100,000 jobs in <TIMEX3 tid="t15" type="DATE" value="2009-10">October</TIMEX3> to ease the worsening social effects of high unemployment.
+Economists, however, <EVENT class="I_ACTION" eid="e28">warned</EVENT> that the outlook on employment would <EVENT class="STATE" eid="e29">remain</EVENT> uncertain over the coming <TIMEX3 tid="t16" type="DURATION" value="">months</TIMEX3>.
+" We remain sceptical about the sustainability of this trend, with... the economy very weak by historical standards, " <EVENT class="REPORTING" eid="e30">said</EVENT> Mr Circosta.
+" Domestic demand remains depressed, while surveys have <EVENT class="REPORTING" eid="e31">shown</EVENT> the majority of firms <EVENT class="I_STATE" eid="e32">believe</EVENT> current staffing levels are excessive.
+The recent burst of hiring is unsustainable if deflation persists in the economy." © The Financial Times Limited <TIMEX3 tid="t17" type="DATE" value="2009">2009</TIMEX3>
+</TEXT>
+<MAKEINSTANCE aspect="NONE" eiid="ei1" eventID="e1" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei3" eventID="e3" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei4" eventID="e4" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei5" eventID="e5" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei6" eventID="e6" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei7" eventID="e7" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei8" eventID="e8" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei9" eventID="e9" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei10" eventID="e10" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei11" eventID="e11" polarity="POS"  tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei12" eventID="e12" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei13" eventID="e13" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei14" eventID="e14" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei15" eventID="e15" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei16" eventID="e16" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei17" eventID="e17" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei18" eventID="e18" polarity="POS"  tense="INFINITIVE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei19" eventID="e19" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei20" eventID="e20" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei22" eventID="e22" polarity="POS"  tense="PASTPART" />
+<MAKEINSTANCE aspect="NONE" eiid="ei23" eventID="e23" polarity="POS"  tense="PRESPART" />
+<MAKEINSTANCE aspect="PERFECTIVE_PROGRESSIVE" eiid="ei24" eventID="e24" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei25" eventID="e25" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei28" eventID="e28" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="NONE" eiid="ei29" eventID="e29" polarity="POS"  tense="NONE" />
+<MAKEINSTANCE aspect="NONE" eiid="ei30" eventID="e30" polarity="POS"  tense="PAST" />
+<MAKEINSTANCE aspect="PERFECTIVE" eiid="ei31" eventID="e31" polarity="POS"  tense="PRESENT" />
+<MAKEINSTANCE aspect="NONE" eiid="ei32" eventID="e32" polarity="POS"  tense="PRESENT" />
+<TLINK eventInstanceID="ei1" lid="l0" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei1" lid="l1" relType="BEFORE" relatedToEventInstance="ei3" />
+<TLINK eventInstanceID="ei1" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei4" />
+<TLINK eventInstanceID="ei1" lid="l3" relType="IS_INCLUDED" relatedToTime="t1" />
+<TLINK eventInstanceID="ei1" lid="l4" relType="IS_INCLUDED" relatedToTime="t2" />
+<TLINK eventInstanceID="ei1" lid="l5" relType="BEFORE" relatedToTime="t3" />
+<TLINK eventInstanceID="ei1" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei5" />
+<TLINK eventInstanceID="ei1" lid="l7" relType="IS_INCLUDED" relatedToTime="t4" />
+<TLINK eventInstanceID="ei1" lid="l8" relType="AFTER" relatedToTime="t5" />
+<TLINK eventInstanceID="ei1" lid="l9" relType="AFTER" relatedToTime="t6" />
+<TLINK eventInstanceID="ei3" lid="l10" relType="IS_INCLUDED" relatedToTime="t0" />
+<TLINK eventInstanceID="ei3" lid="l11" relType="AFTER" relatedToEventInstance="ei4" />
+<TLINK eventInstanceID="ei3" lid="l12" relType="IS_INCLUDED" relatedToTime="t1" />
+<TLINK eventInstanceID="ei3" lid="l13" relType="AFTER" relatedToTime="t2" />
+<TLINK eventInstanceID="ei3" lid="l14" relType="IS_INCLUDED" relatedToTime="t3" />
+<TLINK eventInstanceID="ei3" lid="l15" relType="AFTER" relatedToEventInstance="ei5" />
+<TLINK eventInstanceID="ei3" lid="l16" relType="AFTER" relatedToTime="t4" />
+<TLINK eventInstanceID="ei3" lid="l17" relType="AFTER" relatedToTime="t5" />
+<TLINK eventInstanceID="ei3" lid="l18" relType="AFTER" relatedToTime="t6" />
+<TLINK eventInstanceID="ei4" lid="l19" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei4" lid="l20" relType="IS_INCLUDED" relatedToTime="t1" />
+<TLINK eventInstanceID="ei4" lid="l21" relType="IS_INCLUDED" relatedToTime="t2" />
+<TLINK eventInstanceID="ei4" lid="l22" relType="BEFORE" relatedToTime="t3" />
+<TLINK eventInstanceID="ei4" lid="l23" relType="SIMULTANEOUS" relatedToEventInstance="ei5" />
+<TLINK eventInstanceID="ei4" lid="l24" relType="IS_INCLUDED" relatedToTime="t4" />
+<TLINK eventInstanceID="ei4" lid="l25" relType="AFTER" relatedToTime="t5" />
+<TLINK eventInstanceID="ei4" lid="l26" relType="AFTER" relatedToTime="t6" />
+<TLINK timeID="t1" lid="l27" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t1" lid="l28" relType="INCLUDES" relatedToTime="t2" />
+<TLINK timeID="t1" lid="l29" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t1" lid="l30" relType="INCLUDES" relatedToEventInstance="ei5" />
+<TLINK timeID="t1" lid="l31" relType="INCLUDES" relatedToTime="t4" />
+<TLINK timeID="t1" lid="l32" relType="INCLUDES" relatedToTime="t5" />
+<TLINK timeID="t1" lid="l33" relType="INCLUDES" relatedToTime="t6" />
+<TLINK timeID="t2" lid="l34" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t2" lid="l35" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t2" lid="l36" relType="INCLUDES" relatedToEventInstance="ei5" />
+<TLINK timeID="t2" lid="l37" relType="SIMULTANEOUS" relatedToTime="t4" />
+<TLINK timeID="t2" lid="l38" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t2" lid="l39" relType="AFTER" relatedToTime="t6" />
+<TLINK timeID="t3" lid="l40" relType="SIMULTANEOUS" relatedToTime="t0" />
+<TLINK timeID="t3" lid="l41" relType="AFTER" relatedToEventInstance="ei5" />
+<TLINK timeID="t3" lid="l42" relType="AFTER" relatedToTime="t4" />
+<TLINK timeID="t3" lid="l43" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t3" lid="l44" relType="AFTER" relatedToTime="t6" />
+<TLINK eventInstanceID="ei5" lid="l45" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei5" lid="l46" relType="IS_INCLUDED" relatedToTime="t4" />
+<TLINK eventInstanceID="ei5" lid="l47" relType="AFTER" relatedToTime="t5" />
+<TLINK eventInstanceID="ei5" lid="l48" relType="AFTER" relatedToTime="t6" />
+<TLINK timeID="t4" lid="l49" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t4" lid="l50" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t4" lid="l51" relType="AFTER" relatedToTime="t6" />
+<TLINK timeID="t5" lid="l52" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t5" lid="l53" relType="BEFORE" relatedToTime="t6" />
+<TLINK timeID="t6" lid="l54" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei6" lid="l55" relType="BEFORE" relatedToEventInstance="ei7" />
+<TLINK eventInstanceID="ei6" lid="l56" relType="BEFORE" relatedToEventInstance="ei8" />
+<TLINK eventInstanceID="ei6" lid="l57" relType="BEFORE" relatedToEventInstance="ei9" />
+<TLINK eventInstanceID="ei7" lid="l58" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei7" lid="l59" relType="BEFORE" relatedToEventInstance="ei8" />
+<TLINK eventInstanceID="ei7" lid="l60" relType="BEFORE" relatedToEventInstance="ei9" />
+<TLINK eventInstanceID="ei8" lid="l61" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei8" lid="l62" relType="INCLUDES" relatedToEventInstance="ei9" />
+<TLINK eventInstanceID="ei8" lid="l63" relType="INCLUDES" relatedToEventInstance="ei10" />
+<TLINK eventInstanceID="ei8" lid="l64" relType="AFTER" relatedToEventInstance="ei11" />
+<TLINK eventInstanceID="ei8" lid="l65" relType="AFTER" relatedToTime="t7" />
+<TLINK eventInstanceID="ei9" lid="l66" relType="IS_INCLUDED" relatedToTime="t0" />
+<TLINK eventInstanceID="ei9" lid="l67" relType="IS_INCLUDED" relatedToEventInstance="ei10" />
+<TLINK eventInstanceID="ei9" lid="l68" relType="AFTER" relatedToEventInstance="ei11" />
+<TLINK eventInstanceID="ei9" lid="l69" relType="AFTER" relatedToTime="t7" />
+<TLINK eventInstanceID="ei10" lid="l70" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei10" lid="l71" relType="AFTER" relatedToEventInstance="ei11" />
+<TLINK eventInstanceID="ei10" lid="l72" relType="AFTER" relatedToTime="t7" />
+<TLINK eventInstanceID="ei10" lid="l73" relType="BEFORE" relatedToEventInstance="ei13" />
+<TLINK eventInstanceID="ei10" lid="l74" relType="SIMULTANEOUS" relatedToEventInstance="ei14" />
+<TLINK eventInstanceID="ei10" lid="l75" relType="IS_INCLUDED" relatedToTime="t8" />
+<TLINK eventInstanceID="ei11" lid="l76" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei11" lid="l77" relType="SIMULTANEOUS" relatedToTime="t7" />
+<TLINK eventInstanceID="ei11" lid="l78" relType="BEFORE" relatedToEventInstance="ei12" />
+<TLINK eventInstanceID="ei11" lid="l79" relType="BEFORE" relatedToEventInstance="ei13" />
+<TLINK eventInstanceID="ei11" lid="l80" relType="BEFORE" relatedToEventInstance="ei14" />
+<TLINK eventInstanceID="ei11" lid="l81" relType="BEFORE" relatedToTime="t8" />
+<TLINK timeID="t7" lid="l82" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t7" lid="l83" relType="BEFORE" relatedToEventInstance="ei12" />
+<TLINK timeID="t7" lid="l84" relType="BEFORE" relatedToEventInstance="ei13" />
+<TLINK timeID="t7" lid="l85" relType="BEFORE" relatedToEventInstance="ei14" />
+<TLINK timeID="t7" lid="l86" relType="BEFORE" relatedToTime="t8" />
+<TLINK eventInstanceID="ei12" lid="l87" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei12" lid="l88" relType="SIMULTANEOUS" relatedToEventInstance="ei13" />
+<TLINK eventInstanceID="ei12" lid="l89" relType="SIMULTANEOUS" relatedToEventInstance="ei14" />
+<TLINK eventInstanceID="ei12" lid="l90" relType="IS_INCLUDED" relatedToTime="t8" />
+<TLINK eventInstanceID="ei13" lid="l91" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei13" lid="l92" relType="AFTER" relatedToEventInstance="ei14" />
+<TLINK eventInstanceID="ei13" lid="l93" relType="IS_INCLUDED" relatedToTime="t8" />
+<TLINK eventInstanceID="ei14" lid="l94" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei14" lid="l95" relType="IS_INCLUDED" relatedToTime="t8" />
+<TLINK timeID="t8" lid="l96" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei15" lid="l97" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei15" lid="l98" relType="IS_INCLUDED" relatedToTime="t9" />
+<TLINK eventInstanceID="ei16" lid="l99" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei16" lid="l100" relType="SIMULTANEOUS" relatedToEventInstance="ei17" />
+<TLINK eventInstanceID="ei16" lid="l101" relType="SIMULTANEOUS" relatedToEventInstance="ei18" />
+<TLINK eventInstanceID="ei16" lid="l102" relType="BEFORE" relatedToEventInstance="ei19" />
+<TLINK eventInstanceID="ei16" lid="l103" relType="IS_INCLUDED" relatedToTime="t9" />
+<TLINK eventInstanceID="ei16" lid="l104" relType="IS_INCLUDED" relatedToTime="t10" />
+<TLINK eventInstanceID="ei16" lid="l105" relType="BEFORE" relatedToEventInstance="ei22" />
+<TLINK eventInstanceID="ei16" lid="l106" relType="IS_INCLUDED" relatedToTime="t11" />
+<TLINK eventInstanceID="ei16" lid="l107" relType="AFTER" relatedToTime="t12" />
+<TLINK eventInstanceID="ei16" lid="l108" relType="BEFORE" relatedToTime="t13" />
+<TLINK eventInstanceID="ei17" lid="l109" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei17" lid="l110" relType="SIMULTANEOUS" relatedToEventInstance="ei18" />
+<TLINK eventInstanceID="ei17" lid="l111" relType="BEFORE" relatedToEventInstance="ei19" />
+<TLINK eventInstanceID="ei17" lid="l112" relType="IS_INCLUDED" relatedToTime="t9" />
+<TLINK eventInstanceID="ei17" lid="l113" relType="IS_INCLUDED" relatedToTime="t10" />
+<TLINK eventInstanceID="ei17" lid="l114" relType="BEFORE" relatedToEventInstance="ei22" />
+<TLINK eventInstanceID="ei17" lid="l115" relType="IS_INCLUDED" relatedToTime="t11" />
+<TLINK eventInstanceID="ei17" lid="l116" relType="AFTER" relatedToTime="t12" />
+<TLINK eventInstanceID="ei17" lid="l117" relType="BEFORE" relatedToTime="t13" />
+<TLINK eventInstanceID="ei18" lid="l118" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei18" lid="l119" relType="BEFORE" relatedToEventInstance="ei19" />
+<TLINK eventInstanceID="ei18" lid="l120" relType="IS_INCLUDED" relatedToTime="t9" />
+<TLINK eventInstanceID="ei18" lid="l121" relType="IS_INCLUDED" relatedToTime="t10" />
+<TLINK eventInstanceID="ei18" lid="l122" relType="BEFORE" relatedToEventInstance="ei22" />
+<TLINK eventInstanceID="ei18" lid="l123" relType="IS_INCLUDED" relatedToTime="t11" />
+<TLINK eventInstanceID="ei18" lid="l124" relType="AFTER" relatedToTime="t12" />
+<TLINK eventInstanceID="ei18" lid="l125" relType="BEFORE" relatedToTime="t13" />
+<TLINK eventInstanceID="ei19" lid="l126" relType="IS_INCLUDED" relatedToTime="t9" />
+<TLINK eventInstanceID="ei19" lid="l127" relType="AFTER" relatedToTime="t12" />
+<TLINK timeID="t9" lid="l128" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t9" lid="l129" relType="INCLUDES" relatedToTime="t10" />
+<TLINK timeID="t9" lid="l130" relType="BEFORE" relatedToEventInstance="ei22" />
+<TLINK timeID="t9" lid="l131" relType="INCLUDES" relatedToTime="t11" />
+<TLINK timeID="t9" lid="l132" relType="INCLUDES" relatedToTime="t12" />
+<TLINK timeID="t9" lid="l133" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t10" lid="l134" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t10" lid="l135" relType="INCLUDES" relatedToEventInstance="ei20" />
+<TLINK timeID="t10" lid="l136" relType="BEFORE" relatedToEventInstance="ei22" />
+<TLINK timeID="t10" lid="l137" relType="SIMULTANEOUS" relatedToTime="t11" />
+<TLINK timeID="t10" lid="l138" relType="AFTER" relatedToTime="t12" />
+<TLINK timeID="t10" lid="l139" relType="BEFORE" relatedToTime="t13" />
+<TLINK eventInstanceID="ei20" lid="l140" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei20" lid="l141" relType="BEFORE" relatedToEventInstance="ei22" />
+<TLINK eventInstanceID="ei20" lid="l142" relType="IS_INCLUDED" relatedToTime="t11" />
+<TLINK eventInstanceID="ei20" lid="l143" relType="AFTER" relatedToTime="t12" />
+<TLINK eventInstanceID="ei20" lid="l144" relType="BEFORE" relatedToTime="t13" />
+<TLINK eventInstanceID="ei20" lid="l145" relType="AFTER" relatedToEventInstance="ei23" />
+<TLINK eventInstanceID="ei20" lid="l146" relType="IS_INCLUDED" relatedToEventInstance="ei24" />
+<TLINK eventInstanceID="ei20" lid="l147" relType="AFTER" relatedToEventInstance="ei25" />
+<TLINK eventInstanceID="ei20" lid="l148" relType="AFTER" relatedToEventInstance="ei26" />
+<TLINK eventInstanceID="ei20" lid="l149" relType="AFTER" relatedToEventInstance="ei27" />
+<TLINK eventInstanceID="ei20" lid="l150" relType="AFTER" relatedToTime="t14" />
+<TLINK eventInstanceID="ei20" lid="l151" relType="AFTER" relatedToTime="t15" />
+<TLINK eventInstanceID="ei22" lid="l152" relType="IS_INCLUDED" relatedToTime="t0" />
+<TLINK eventInstanceID="ei22" lid="l153" relType="AFTER" relatedToTime="t11" />
+<TLINK eventInstanceID="ei22" lid="l154" relType="AFTER" relatedToTime="t12" />
+<TLINK eventInstanceID="ei22" lid="l155" relType="IS_INCLUDED" relatedToTime="t13" />
+<TLINK eventInstanceID="ei22" lid="l156" relType="AFTER" relatedToEventInstance="ei23" />
+<TLINK eventInstanceID="ei22" lid="l157" relType="AFTER" relatedToEventInstance="ei24" />
+<TLINK eventInstanceID="ei22" lid="l158" relType="AFTER" relatedToEventInstance="ei25" />
+<TLINK eventInstanceID="ei22" lid="l159" relType="AFTER" relatedToEventInstance="ei26" />
+<TLINK eventInstanceID="ei22" lid="l160" relType="AFTER" relatedToEventInstance="ei27" />
+<TLINK eventInstanceID="ei22" lid="l161" relType="AFTER" relatedToTime="t14" />
+<TLINK eventInstanceID="ei22" lid="l162" relType="AFTER" relatedToTime="t15" />
+<TLINK timeID="t11" lid="l163" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t11" lid="l164" relType="AFTER" relatedToTime="t12" />
+<TLINK timeID="t11" lid="l165" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t11" lid="l166" relType="AFTER" relatedToEventInstance="ei23" />
+<TLINK timeID="t11" lid="l167" relType="IS_INCLUDED" relatedToEventInstance="ei24" />
+<TLINK timeID="t11" lid="l168" relType="AFTER" relatedToEventInstance="ei25" />
+<TLINK timeID="t11" lid="l169" relType="AFTER" relatedToEventInstance="ei26" />
+<TLINK timeID="t11" lid="l170" relType="AFTER" relatedToEventInstance="ei27" />
+<TLINK timeID="t11" lid="l171" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t11" lid="l172" relType="AFTER" relatedToTime="t15" />
+<TLINK timeID="t12" lid="l173" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t12" lid="l174" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t12" lid="l175" relType="INCLUDES" relatedToEventInstance="ei23" />
+<TLINK timeID="t12" lid="l176" relType="BEFORE" relatedToEventInstance="ei24" />
+<TLINK timeID="t12" lid="l177" relType="INCLUDES" relatedToEventInstance="ei25" />
+<TLINK timeID="t12" lid="l178" relType="INCLUDES" relatedToEventInstance="ei26" />
+<TLINK timeID="t12" lid="l179" relType="INCLUDES" relatedToEventInstance="ei27" />
+<TLINK timeID="t12" lid="l180" relType="INCLUDES" relatedToTime="t14" />
+<TLINK timeID="t12" lid="l181" relType="INCLUDES" relatedToTime="t15" />
+<TLINK timeID="t13" lid="l182" relType="SIMULTANEOUS" relatedToTime="t0" />
+<TLINK timeID="t13" lid="l183" relType="AFTER" relatedToEventInstance="ei23" />
+<TLINK timeID="t13" lid="l184" relType="IS_INCLUDED" relatedToEventInstance="ei24" />
+<TLINK timeID="t13" lid="l185" relType="AFTER" relatedToEventInstance="ei25" />
+<TLINK timeID="t13" lid="l186" relType="AFTER" relatedToEventInstance="ei26" />
+<TLINK timeID="t13" lid="l187" relType="AFTER" relatedToEventInstance="ei27" />
+<TLINK timeID="t13" lid="l188" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t13" lid="l189" relType="AFTER" relatedToTime="t15" />
+<TLINK eventInstanceID="ei23" lid="l190" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei23" lid="l191" relType="BEFORE" relatedToEventInstance="ei24" />
+<TLINK eventInstanceID="ei23" lid="l192" relType="BEFORE" relatedToEventInstance="ei25" />
+<TLINK eventInstanceID="ei23" lid="l193" relType="BEFORE" relatedToEventInstance="ei26" />
+<TLINK eventInstanceID="ei23" lid="l194" relType="BEFORE" relatedToEventInstance="ei27" />
+<TLINK eventInstanceID="ei23" lid="l195" relType="IS_INCLUDED" relatedToTime="t14" />
+<TLINK eventInstanceID="ei23" lid="l196" relType="BEFORE" relatedToTime="t15" />
+<TLINK eventInstanceID="ei23" lid="l197" relType="BEFORE" relatedToEventInstance="ei28" />
+<TLINK eventInstanceID="ei23" lid="l198" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK eventInstanceID="ei23" lid="l199" relType="BEFORE" relatedToTime="t16" />
+<TLINK eventInstanceID="ei24" lid="l200" relType="INCLUDES" relatedToTime="t0" />
+<TLINK eventInstanceID="ei24" lid="l201" relType="AFTER" relatedToEventInstance="ei25" />
+<TLINK eventInstanceID="ei24" lid="l202" relType="AFTER" relatedToEventInstance="ei26" />
+<TLINK eventInstanceID="ei24" lid="l203" relType="AFTER" relatedToEventInstance="ei27" />
+<TLINK eventInstanceID="ei24" lid="l204" relType="AFTER" relatedToTime="t14" />
+<TLINK eventInstanceID="ei24" lid="l205" relType="AFTER" relatedToTime="t15" />
+<TLINK eventInstanceID="ei24" lid="l206" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK eventInstanceID="ei24" lid="l207" relType="BEFORE" relatedToTime="t16" />
+<TLINK eventInstanceID="ei25" lid="l208" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei25" lid="l209" relType="BEFORE" relatedToEventInstance="ei26" />
+<TLINK eventInstanceID="ei25" lid="l210" relType="BEFORE" relatedToEventInstance="ei27" />
+<TLINK eventInstanceID="ei25" lid="l211" relType="AFTER" relatedToTime="t14" />
+<TLINK eventInstanceID="ei25" lid="l212" relType="IS_INCLUDED" relatedToTime="t15" />
+<TLINK eventInstanceID="ei25" lid="l213" relType="BEFORE" relatedToEventInstance="ei28" />
+<TLINK eventInstanceID="ei25" lid="l214" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK eventInstanceID="ei25" lid="l215" relType="BEFORE" relatedToTime="t16" />
+<TLINK eventInstanceID="ei26" lid="l216" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei26" lid="l217" relType="BEFORE" relatedToEventInstance="ei27" />
+<TLINK eventInstanceID="ei26" lid="l218" relType="AFTER" relatedToTime="t14" />
+<TLINK eventInstanceID="ei26" lid="l219" relType="IS_INCLUDED" relatedToTime="t15" />
+<TLINK eventInstanceID="ei26" lid="l220" relType="BEFORE" relatedToEventInstance="ei28" />
+<TLINK eventInstanceID="ei26" lid="l221" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK eventInstanceID="ei26" lid="l222" relType="BEFORE" relatedToTime="t16" />
+<TLINK eventInstanceID="ei27" lid="l223" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei27" lid="l224" relType="AFTER" relatedToTime="t14" />
+<TLINK eventInstanceID="ei27" lid="l225" relType="IS_INCLUDED" relatedToTime="t15" />
+<TLINK eventInstanceID="ei27" lid="l226" relType="BEFORE" relatedToEventInstance="ei28" />
+<TLINK eventInstanceID="ei27" lid="l227" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK eventInstanceID="ei27" lid="l228" relType="BEFORE" relatedToTime="t16" />
+<TLINK timeID="t14" lid="l229" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t14" lid="l230" relType="BEFORE" relatedToTime="t15" />
+<TLINK timeID="t14" lid="l231" relType="BEFORE" relatedToEventInstance="ei28" />
+<TLINK timeID="t14" lid="l232" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK timeID="t14" lid="l233" relType="BEFORE" relatedToTime="t16" />
+<TLINK timeID="t15" lid="l234" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t15" lid="l235" relType="BEFORE" relatedToEventInstance="ei28" />
+<TLINK timeID="t15" lid="l236" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK timeID="t15" lid="l237" relType="BEFORE" relatedToTime="t16" />
+<TLINK eventInstanceID="ei28" lid="l238" relType="BEFORE" relatedToEventInstance="ei29" />
+<TLINK eventInstanceID="ei28" lid="l239" relType="BEFORE" relatedToTime="t16" />
+<TLINK eventInstanceID="ei28" lid="l240" relType="SIMULTANEOUS" relatedToEventInstance="ei30" />
+<TLINK eventInstanceID="ei29" lid="l241" relType="AFTER" relatedToTime="t0" />
+<TLINK eventInstanceID="ei29" lid="l242" relType="IS_INCLUDED" relatedToTime="t16" />
+<TLINK eventInstanceID="ei29" lid="l243" relType="AFTER" relatedToEventInstance="ei30" />
+<TLINK timeID="t16" lid="l244" relType="AFTER" relatedToTime="t0" />
+<TLINK timeID="t16" lid="l245" relType="AFTER" relatedToEventInstance="ei30" />
+<TLINK eventInstanceID="ei30" lid="l246" relType="IS_INCLUDED" relatedToTime="t0" />
+<TLINK eventInstanceID="ei30" lid="l247" relType="IS_INCLUDED" relatedToEventInstance="ei31" />
+<TLINK eventInstanceID="ei30" lid="l248" relType="IS_INCLUDED" relatedToEventInstance="ei32" />
+<TLINK eventInstanceID="ei31" lid="l249" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei31" lid="l250" relType="AFTER" relatedToEventInstance="ei32" />
+<TLINK eventInstanceID="ei32" lid="l251" relType="BEFORE" relatedToTime="t0" />
+<TLINK eventInstanceID="ei17" lid="l252" relType="BEFORE" relatedToEventInstance="ei20" />
+<TLINK timeID="t2" lid="l253" relType="SIMULTANEOUS" relatedToTime="t10" />
+<TLINK timeID="t2" lid="l254" relType="SIMULTANEOUS" relatedToTime="t11" />
+<TLINK timeID="t2" lid="l255" relType="AFTER" relatedToTime="t12" />
+<TLINK timeID="t2" lid="l256" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t2" lid="l257" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t2" lid="l258" relType="AFTER" relatedToTime="t15" />
+<TLINK timeID="t2" lid="l259" relType="AFTER" relatedToTime="t17" />
+<TLINK timeID="t3" lid="l260" relType="AFTER" relatedToTime="t2" />
+<TLINK timeID="t3" lid="l261" relType="AFTER" relatedToTime="t10" />
+<TLINK timeID="t3" lid="l262" relType="AFTER" relatedToTime="t11" />
+<TLINK timeID="t3" lid="l263" relType="AFTER" relatedToTime="t12" />
+<TLINK timeID="t3" lid="l264" relType="SIMULTANEOUS" relatedToTime="t13" />
+<TLINK timeID="t3" lid="l265" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t3" lid="l266" relType="AFTER" relatedToTime="t15" />
+<TLINK timeID="t3" lid="l267" relType="AFTER" relatedToTime="t17" />
+<TLINK timeID="t4" lid="l268" relType="SIMULTANEOUS" relatedToTime="t2" />
+<TLINK timeID="t4" lid="l269" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t4" lid="l270" relType="SIMULTANEOUS" relatedToTime="t10" />
+<TLINK timeID="t4" lid="l271" relType="SIMULTANEOUS" relatedToTime="t11" />
+<TLINK timeID="t4" lid="l272" relType="AFTER" relatedToTime="t12" />
+<TLINK timeID="t4" lid="l273" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t4" lid="l274" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t4" lid="l275" relType="AFTER" relatedToTime="t15" />
+<TLINK timeID="t4" lid="l276" relType="AFTER" relatedToTime="t17" />
+<TLINK timeID="t5" lid="l277" relType="BEFORE" relatedToTime="t2" />
+<TLINK timeID="t5" lid="l278" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t5" lid="l279" relType="BEFORE" relatedToTime="t4" />
+<TLINK timeID="t5" lid="l280" relType="BEFORE" relatedToTime="t10" />
+<TLINK timeID="t5" lid="l281" relType="BEFORE" relatedToTime="t11" />
+<TLINK timeID="t5" lid="l282" relType="IS_INCLUDED" relatedToTime="t12" />
+<TLINK timeID="t5" lid="l283" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t5" lid="l284" relType="BEFORE" relatedToTime="t14" />
+<TLINK timeID="t5" lid="l285" relType="BEFORE" relatedToTime="t15" />
+<TLINK timeID="t5" lid="l286" relType="IS_INCLUDED" relatedToTime="t17" />
+<TLINK timeID="t6" lid="l287" relType="BEFORE" relatedToTime="t2" />
+<TLINK timeID="t6" lid="l288" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t6" lid="l289" relType="BEFORE" relatedToTime="t4" />
+<TLINK timeID="t6" lid="l290" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t6" lid="l291" relType="BEFORE" relatedToTime="t10" />
+<TLINK timeID="t6" lid="l292" relType="BEFORE" relatedToTime="t11" />
+<TLINK timeID="t6" lid="l293" relType="IS_INCLUDED" relatedToTime="t12" />
+<TLINK timeID="t6" lid="l294" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t6" lid="l295" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t6" lid="l296" relType="AFTER" relatedToTime="t15" />
+<TLINK timeID="t6" lid="l297" relType="IS_INCLUDED" relatedToTime="t17" />
+<TLINK timeID="t10" lid="l298" relType="SIMULTANEOUS" relatedToTime="t2" />
+<TLINK timeID="t10" lid="l299" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t10" lid="l300" relType="SIMULTANEOUS" relatedToTime="t4" />
+<TLINK timeID="t10" lid="l301" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t10" lid="l302" relType="AFTER" relatedToTime="t6" />
+<TLINK timeID="t10" lid="l303" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t10" lid="l304" relType="AFTER" relatedToTime="t15" />
+<TLINK timeID="t10" lid="l305" relType="AFTER" relatedToTime="t17" />
+<TLINK timeID="t11" lid="l306" relType="SIMULTANEOUS" relatedToTime="t2" />
+<TLINK timeID="t11" lid="l307" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t11" lid="l308" relType="SIMULTANEOUS" relatedToTime="t4" />
+<TLINK timeID="t11" lid="l309" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t11" lid="l310" relType="AFTER" relatedToTime="t6" />
+<TLINK timeID="t11" lid="l311" relType="SIMULTANEOUS" relatedToTime="t10" />
+<TLINK timeID="t11" lid="l312" relType="AFTER" relatedToTime="t17" />
+<TLINK timeID="t12" lid="l313" relType="BEFORE" relatedToTime="t2" />
+<TLINK timeID="t12" lid="l314" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t12" lid="l315" relType="BEFORE" relatedToTime="t4" />
+<TLINK timeID="t12" lid="l316" relType="INCLUDES" relatedToTime="t5" />
+<TLINK timeID="t12" lid="l317" relType="INCLUDES" relatedToTime="t6" />
+<TLINK timeID="t12" lid="l318" relType="BEFORE" relatedToTime="t10" />
+<TLINK timeID="t12" lid="l319" relType="BEFORE" relatedToTime="t11" />
+<TLINK timeID="t12" lid="l320" relType="SIMULTANEOUS" relatedToTime="t17" />
+<TLINK timeID="t13" lid="l321" relType="AFTER" relatedToTime="t2" />
+<TLINK timeID="t13" lid="l322" relType="SIMULTANEOUS" relatedToTime="t3" />
+<TLINK timeID="t13" lid="l323" relType="AFTER" relatedToTime="t4" />
+<TLINK timeID="t13" lid="l324" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t13" lid="l325" relType="AFTER" relatedToTime="t6" />
+<TLINK timeID="t13" lid="l326" relType="AFTER" relatedToTime="t10" />
+<TLINK timeID="t13" lid="l327" relType="AFTER" relatedToTime="t11" />
+<TLINK timeID="t13" lid="l328" relType="AFTER" relatedToTime="t12" />
+<TLINK timeID="t13" lid="l329" relType="AFTER" relatedToTime="t17" />
+<TLINK timeID="t14" lid="l330" relType="BEFORE" relatedToTime="t2" />
+<TLINK timeID="t14" lid="l331" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t14" lid="l332" relType="BEFORE" relatedToTime="t4" />
+<TLINK timeID="t14" lid="l333" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t14" lid="l334" relType="BEFORE" relatedToTime="t6" />
+<TLINK timeID="t14" lid="l335" relType="BEFORE" relatedToTime="t10" />
+<TLINK timeID="t14" lid="l336" relType="BEFORE" relatedToTime="t11" />
+<TLINK timeID="t14" lid="l337" relType="IS_INCLUDED" relatedToTime="t12" />
+<TLINK timeID="t14" lid="l338" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t14" lid="l339" relType="IS_INCLUDED" relatedToTime="t17" />
+<TLINK timeID="t15" lid="l340" relType="BEFORE" relatedToTime="t2" />
+<TLINK timeID="t15" lid="l341" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t15" lid="l342" relType="BEFORE" relatedToTime="t4" />
+<TLINK timeID="t15" lid="l343" relType="AFTER" relatedToTime="t5" />
+<TLINK timeID="t15" lid="l344" relType="BEFORE" relatedToTime="t6" />
+<TLINK timeID="t15" lid="l345" relType="BEFORE" relatedToTime="t10" />
+<TLINK timeID="t15" lid="l346" relType="BEFORE" relatedToTime="t11" />
+<TLINK timeID="t15" lid="l347" relType="IS_INCLUDED" relatedToTime="t12" />
+<TLINK timeID="t15" lid="l348" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t15" lid="l349" relType="AFTER" relatedToTime="t14" />
+<TLINK timeID="t15" lid="l350" relType="IS_INCLUDED" relatedToTime="t17" />
+<TLINK timeID="t17" lid="l351" relType="BEFORE" relatedToTime="t0" />
+<TLINK timeID="t17" lid="l352" relType="BEFORE" relatedToTime="t2" />
+<TLINK timeID="t17" lid="l353" relType="BEFORE" relatedToTime="t3" />
+<TLINK timeID="t17" lid="l354" relType="BEFORE" relatedToTime="t4" />
+<TLINK timeID="t17" lid="l355" relType="INCLUDES" relatedToTime="t5" />
+<TLINK timeID="t17" lid="l356" relType="INCLUDES" relatedToTime="t6" />
+<TLINK timeID="t17" lid="l357" relType="BEFORE" relatedToTime="t10" />
+<TLINK timeID="t17" lid="l358" relType="BEFORE" relatedToTime="t11" />
+<TLINK timeID="t17" lid="l359" relType="SIMULTANEOUS" relatedToTime="t12" />
+<TLINK timeID="t17" lid="l360" relType="BEFORE" relatedToTime="t13" />
+<TLINK timeID="t17" lid="l361" relType="INCLUDES" relatedToTime="t14" />
+<TLINK timeID="t17" lid="l362" relType="INCLUDES" relatedToTime="t15" />
+<TLINK eventInstanceID="ei18" lid="l363" relType="BEFORE" relatedToEventInstance="ei14" />
+
+</TimeML>

@@ -42,28 +42,30 @@ No one escapes the juggling act.
 <MAKEINSTANCE aspect="NONE" eiid="ei35" eventID="e35" polarity="POS"  tense="NONE" />
 <MAKEINSTANCE aspect="NONE" eiid="ei36" eventID="e36" polarity="POS"  tense="NONE" />
 <MAKEINSTANCE aspect="PROGRESSIVE" eiid="ei37" eventID="e37" polarity="POS"  tense="PRESENT" />
-<TLINK eventInstanceID="ei1" lid="l0" relType="AFTER" relatedToEventInstance="ei5" />
-<TLINK eventInstanceID="ei1" lid="l1" relType="BEFORE" relatedToEventInstance="ei6" />
-<TLINK eventInstanceID="ei3" lid="l2" relType="AFTER" relatedToEventInstance="ei5" />
-<TLINK eventInstanceID="ei3" lid="l3" relType="BEFORE" relatedToEventInstance="ei6" />
-<TLINK eventInstanceID="ei5" lid="l4" relType="AFTER" relatedToEventInstance="ei6" />
-<TLINK eventInstanceID="ei1" lid="l5" relType="BEFORE" relatedToEventInstance="ei2" />
-<TLINK eventInstanceID="ei23" lid="l6" relType="AFTER" relatedToTime="t2" />
-<TLINK eventInstanceID="ei36" lid="l7" relType="BEFORE" relatedToEventInstance="ei37" />
-<TLINK eventInstanceID="ei11" lid="l8" relType="AFTER" relatedToEventInstance="ei14" />
-<TLINK eventInstanceID="ei36" lid="l9" relType="AFTER" relatedToTime="t4" />
-<TLINK eventInstanceID="ei34" lid="l10" relType="AFTER" relatedToTime="t4" />
+<TLINK eventInstanceID="ei1" lid="l0" relType="BEFORE" relatedToEventInstance="ei2" />
+<TLINK eventInstanceID="ei1" lid="l1" relType="AFTER" relatedToEventInstance="ei5" />
+<TLINK eventInstanceID="ei1" lid="l2" relType="BEFORE" relatedToEventInstance="ei6" />
+<TLINK eventInstanceID="ei2" lid="l3" relType="AFTER" relatedToEventInstance="ei3" />
+<TLINK eventInstanceID="ei2" lid="l4" relType="AFTER" relatedToEventInstance="ei5" />
+<TLINK eventInstanceID="ei2" lid="l5" relType="AFTER" relatedToEventInstance="ei6" />
+<TLINK eventInstanceID="ei3" lid="l6" relType="AFTER" relatedToEventInstance="ei5" />
+<TLINK eventInstanceID="ei3" lid="l7" relType="BEFORE" relatedToEventInstance="ei6" />
+<TLINK eventInstanceID="ei5" lid="l8" relType="AFTER" relatedToEventInstance="ei6" />
+<TLINK eventInstanceID="ei5" lid="l9" relType="AFTER" relatedToEventInstance="ei8" />
+<TLINK eventInstanceID="ei6" lid="l10" relType="AFTER" relatedToEventInstance="ei8" />
 <TLINK eventInstanceID="ei8" lid="l11" relType="AFTER" relatedToEventInstance="ei13" />
-<TLINK eventInstanceID="ei34" lid="l12" relType="BEFORE" relatedToEventInstance="ei35" />
-<TLINK eventInstanceID="ei2" lid="l13" relType="AFTER" relatedToEventInstance="ei5" />
-<TLINK eventInstanceID="ei8" lid="l14" relType="AFTER" relatedToEventInstance="ei11" />
-<TLINK eventInstanceID="ei2" lid="l15" relType="AFTER" relatedToEventInstance="ei3" />
-<TLINK eventInstanceID="ei34" lid="l16" relType="BEFORE" relatedToEventInstance="ei36" />
-<TLINK eventInstanceID="ei35" lid="l17" relType="BEFORE" relatedToEventInstance="ei37" />
-<TLINK eventInstanceID="ei6" lid="l18" relType="AFTER" relatedToEventInstance="ei8" />
-<TLINK timeID="t4" lid="l19" relType="BEFORE" relatedToEventInstance="ei37" />
-<TLINK eventInstanceID="ei35" lid="l20" relType="BEFORE" relatedToEventInstance="ei36" />
-<TLINK eventInstanceID="ei35" lid="l21" relType="AFTER" relatedToTime="t4" />
-<TLINK eventInstanceID="ei13" lid="l22" relType="AFTER" relatedToEventInstance="ei14" />
+<TLINK eventInstanceID="ei11" lid="l12" relType="AFTER" relatedToEventInstance="ei14" />
+<TLINK eventInstanceID="ei13" lid="l13" relType="AFTER" relatedToEventInstance="ei14" />
+<TLINK eventInstanceID="ei34" lid="l14" relType="BEFORE" relatedToEventInstance="ei35" />
+<TLINK eventInstanceID="ei34" lid="l15" relType="BEFORE" relatedToEventInstance="ei36" />
+<TLINK eventInstanceID="ei34" lid="l16" relType="BEFORE" relatedToEventInstance="ei37" />
+<TLINK eventInstanceID="ei35" lid="l17" relType="BEFORE" relatedToEventInstance="ei36" />
+<TLINK eventInstanceID="ei35" lid="l18" relType="BEFORE" relatedToEventInstance="ei37" />
+<TLINK eventInstanceID="ei36" lid="l19" relType="BEFORE" relatedToEventInstance="ei37" />
+<TLINK eventInstanceID="ei23" lid="l20" relType="AFTER" relatedToTime="t2" />
+<TLINK eventInstanceID="ei36" lid="l21" relType="AFTER" relatedToTime="t4" />
+<TLINK eventInstanceID="ei34" lid="l22" relType="AFTER" relatedToTime="t4" />
+<TLINK timeID="t4" lid="l23" relType="BEFORE" relatedToEventInstance="ei37" />
+<TLINK eventInstanceID="ei35" lid="l24" relType="AFTER" relatedToTime="t4" />
 
 </TimeML>

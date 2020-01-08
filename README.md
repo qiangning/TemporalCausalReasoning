@@ -12,3 +12,13 @@ This repo holds the dataset used in the paper of *Joint Reasoning for Temporal a
   url = 	"http://aclweb.org/anthology/P18-1212"
 }
 ```
+
+# Train/Test Split
+The five docs used as testset are follows:
+```
+2010.01.08.facebook.bra.color
+2010.01.12.haiti.earthquake
+2010.01.12.turkey.israel
+2010.01.13.google.china.exit
+2010.01.13.mexico.human.traffic.drug
+```
